@@ -16,6 +16,7 @@
     "url": "https://github.com/rreinold/regression-toolkit/issues"
   },
   "homepage": "https://github.com/rreinold/regression-toolkit#readme",
+  "image_url":"https://raw.githubusercontent.com/rreinold/regression-toolkit/master/screenshot.png",
   "dependencies": {
     "regression": "^2.0.1"
   },
