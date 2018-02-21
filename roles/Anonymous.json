@@ -3,7 +3,13 @@
     "ID": "Anonymous",
     "Name": "Anonymous",
     "Permissions": {
-        "CodeServices": [],
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "ExampleLinear",
+                "SystemKey": "a2cdeda80bdad49dd78a8885e530"
+            }
+        ],
         "Collections": [],
         "DevicesList": {
             "Level": 0
@@ -11,7 +17,13 @@
         "MsgHistory": {
             "Level": 0
         },
-        "Portals": [],
+        "Portals": [
+            {
+                "Level": 7,
+                "Name": "regression",
+                "SystemKey": "a2cdeda80bdad49dd78a8885e530"
+            }
+        ],
         "Push": {
             "Level": 0
         },
