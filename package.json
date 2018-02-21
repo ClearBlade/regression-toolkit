@@ -1,0 +1,31 @@
+{
+  "name": "regression-toolkit",
+  "version": "1.0.0",
+  "description": "Regression analysis toolkit for linear, exponential, logarithmic, power, and polynomial models",
+  "main": "regression-toolkit",
+  "scripts": {
+    "build": "npx babel ./node_modules/regression/src/regression.js -o code/libraries/regression/regression.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rreinold/regression-toolkit.git"
+  },
+  "author": "Rob Reinold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rreinold/regression-toolkit/issues"
+  },
+  "homepage": "https://github.com/rreinold/regression-toolkit#readme",
+  "dependencies": {
+    "regression": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "presets": [
+    "env"
+  ]
+}

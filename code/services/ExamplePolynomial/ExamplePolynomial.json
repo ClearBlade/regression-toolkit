@@ -1,0 +1,10 @@
+{
+    "current_version": 9,
+    "dependencies": "regression",
+    "logging_enabled": "false",
+    "name": "ExamplePolynomial",
+    "params": [],
+    "permissions": {},
+    "run_user": "",
+    "source": "ExamplePolynomial.js"
+}
