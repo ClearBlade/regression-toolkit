@@ -5,7 +5,7 @@
 
 Regression analysis toolkit for linear, exponential, logarithmic, power, and polynomial models
 
-Built upon regression-js [repo](https://github.com/Tom-Alexander/regression-js)
+Built with Tom Alexander's regression-js ([repo](https://github.com/Tom-Alexander/regression-js))
 
 This is an ipm package, which contains one or more reusable assets within the ipm Community. The 'package.json' in this repo is a ipm spec's package.json, [here](https://docs.clearblade.com/v/3/6-ipm/spec), which is a superset of npm's package.json spec, [here](https://docs.npmjs.com/files/package.json).
 
@@ -34,6 +34,12 @@ _no setup required_
 ### Portals
 
 `regression` - visualization of the regression model
+
+### Collections
+
+_n/a_
+
+### ...
 
 ## Thank you
 

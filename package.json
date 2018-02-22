@@ -17,6 +17,29 @@
   },
   "homepage": "https://github.com/rreinold/regression-toolkit#readme",
   "image_url":"https://raw.githubusercontent.com/rreinold/regression-toolkit/master/screenshot.png",
+  "asset_types":[
+    "Code Libraries"
+  ],
+  "author":{"email":"rreinold@clearblade.com"},
+  "private":false,
+  "keywords":[ 
+    "regression",
+    "model",
+    "modeling",
+    "vibration",
+    "detection",
+    "ML",
+    "anomaly",
+    "aberration"
+    "anomaly detection",
+    "machine learning"
+  ],
+  "programming_lang":"javascript",
+  "cloud":[],
+  "things":[],
+  "domains": ["Preventative Maintenance","Anomaly Detection","Smart Buildings"],
+  "protocols":[],
+  "gateways":[],
   "dependencies": {
     "regression": "^2.0.1"
   },
