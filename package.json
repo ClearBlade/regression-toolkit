@@ -10,19 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/rreinold/regression-toolkit.git"
   },
-  "author": "Rob Reinold",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rreinold/regression-toolkit/issues"
   },
   "homepage": "https://github.com/rreinold/regression-toolkit#readme",
-  "image_url":"https://raw.githubusercontent.com/rreinold/regression-toolkit/master/screenshot.png",
-  "asset_types":[
+  "image_url": "https://raw.githubusercontent.com/rreinold/regression-toolkit/master/screenshot.png",
+  "asset_types": [
     "Code Libraries"
   ],
-  "author":{"email":"rob@clearblade.com"},
-  "private":false,
-  "keywords":[ 
+  "author": {
+    "email": "rob@clearblade.com"
+  },
+  "private": false,
+  "keywords": [
     "regression",
     "model",
     "modeling",
@@ -30,16 +31,16 @@
     "detection",
     "ML",
     "anomaly",
-    "aberration"
+    "aberration",
     "anomaly detection",
     "machine learning"
   ],
-  "programming_lang":"javascript",
-  "cloud":[],
-  "things":[],
-  "domains": ["Preventative Maintenance","Anomaly Detection","Smart Buildings"],
-  "protocols":[],
-  "gateways":[],
+  "programming_lang": "javascript",
+  "cloud": [],
+  "things": [],
+  "domains": ["Preventative Maintenance", "Anomaly Detection", "Smart Buildings"],
+  "protocols": [],
+  "gateways": [],
   "dependencies": {
     "regression": "^2.0.1"
   },
