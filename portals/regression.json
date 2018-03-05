@@ -537,8 +537,6 @@
     "description": "Demonstrates regression library",
     "last_updated": "21 Feb 18 23:16 UTC",
     "name": "regression",
-    "permissions": 0,
-    "plugins": [],
     "system_key": "a2cdeda80bdad49dd78a8885e530",
     "type": "custom_v2"
 }
