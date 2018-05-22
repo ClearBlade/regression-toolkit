@@ -1,9 +1,8 @@
 {
     "auth": true,
-    "deployments": [],
     "description": "Regression analysis toolkit for linear, exponential, logarithmic, power, and polynomial models",
     "messaging_url": "staging.clearblade.com:1883",
-    "name": "PackageDev_regression-toolkit",
+    "name": "dev-regression-toolkit",
     "platform_url": "https://staging.clearblade.com",
     "system_key": "a2cdeda80bdad49dd78a8885e530",
     "system_secret": "A2CDEDA80BE6F2D9D1B7B2A0B5EB01"

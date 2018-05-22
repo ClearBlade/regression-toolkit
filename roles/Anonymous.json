@@ -3,15 +3,37 @@
     "ID": "Anonymous",
     "Name": "Anonymous",
     "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
         "CodeServices": [
             {
                 "Level": 1,
                 "Name": "ExampleLinear",
                 "SystemKey": "a2cdeda80bdad49dd78a8885e530"
+            },
+            {
+                "Level": 0,
+                "Name": "ExamplePolynomial",
+                "SystemKey": "a2cdeda80bdad49dd78a8885e530"
+            },
+            {
+                "Level": 1,
+                "Name": "RegressionToolkitExampleLinear",
+                "SystemKey": "a2cdeda80bdad49dd78a8885e530"
             }
         ],
         "Collections": [],
+        "Deployments": {
+            "Level": 0
+        },
         "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
             "Level": 0
         },
         "MsgHistory": {
@@ -22,13 +44,26 @@
                 "Level": 7,
                 "Name": "regression",
                 "SystemKey": "a2cdeda80bdad49dd78a8885e530"
+            },
+            {
+                "Level": 1,
+                "Name": "RegressionToolkitDemo",
+                "SystemKey": "a2cdeda80bdad49dd78a8885e530"
             }
         ],
         "Push": {
             "Level": 0
         },
-        "SystemServices": null,
+        "Roles": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
         "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
         "UsersList": {
             "Level": 0
         }
