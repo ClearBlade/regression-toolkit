@@ -19,17 +19,19 @@ _no setup required_
 
 Add `RegressionToolkitLib` to your Code Service 'Requires' page
 
-Run an example, `ExampleLinear`, and see it visualized in the `RegressionToolkitDemo` Portal
+Run an example, `ExampleLinear`
+
+Visualizion available in the `RegressionToolkitDemo` Portal
 
 ## Assets
-
-### Code Services
-
-`RegressionToolkitExampleLinear` - Generates a linear regression model based upon measured data
 
 ### Code Libraries
 
 `RegressionToolkitLib` - the core regression library
+
+### Code Services
+
+`RegressionToolkitExampleLinear` - Generates a linear regression model based upon measured data
 
 ### Portals
 
@@ -38,4 +40,3 @@ Run an example, `ExampleLinear`, and see it visualized in the `RegressionToolkit
 ## API
 
 [https://github.com/Tom-Alexander/regression-js](https://github.com/Tom-Alexander/regression-js)
-
