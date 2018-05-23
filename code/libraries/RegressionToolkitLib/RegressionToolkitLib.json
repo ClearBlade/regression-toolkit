@@ -2,7 +2,7 @@
     "api": "",
     "dependencies": "",
     "description": "",
-    "name": "regression",
-    "version": 2,
+    "name": "RegressionToolkitLib",
+    "version": 3,
     "visibility": "system"
 }

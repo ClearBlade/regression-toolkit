@@ -15,32 +15,28 @@ This is an ipm package, which contains one or more reusable assets within the ip
 
 _no setup required_
 
-## API
-
-[https://github.com/Tom-Alexander/regression-js](https://github.com/Tom-Alexander/regression-js)
-
 ## Usage
 
-[https://github.com/Tom-Alexander/regression-js](https://github.com/Tom-Alexander/regression-js)
+Add `RegressionToolkitLib` to your Code Service 'Requires' page
 
-### Code Services
+Run an example, `ExampleLinear`
 
-`ExampleLinear` - Generates a linear regression model based upon measured data
+Visualizion available in the `RegressionToolkitDemo` Portal
+
+## Assets
 
 ### Code Libraries
 
-`regression` - the core regression library
+`RegressionToolkitLib` - the core regression library
+
+### Code Services
+
+`RegressionToolkitExampleLinear` - Generates a linear regression model based upon measured data
 
 ### Portals
 
-`regression` - visualization of the regression model
+`RegressionToolkitDemo` - visualization of the regression model
 
-### Collections
+## API
 
-_n/a_
-
-### ...
-
-## Thank you
-
-Powered by ClearBlade Enterprise IoT Platform: [https://platform.clearblade.com](https://platform.clearblade.com)
+[https://github.com/Tom-Alexander/regression-js](https://github.com/Tom-Alexander/regression-js)

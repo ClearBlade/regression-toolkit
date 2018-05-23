@@ -19,7 +19,7 @@
                 "settings": {
                     "CALL_ON_LOAD": true,
                     "SUPPRESS_DATASOURCE_ERRORS": false,
-                    "code_name": "ExampleLinear",
+                    "code_name": "RegressionToolkitExampleLinear",
                     "payload": "{}",
                     "refresh_interval": 0
                 },
@@ -309,6 +309,13 @@
                             "listItemBackgroundColor": "#ffffff",
                             "titleColor": "#000000"
                         },
+                        "FORM_WIDGET_COMPONENT": {
+                            "cardBackgroundColor": "#f5f5f5",
+                            "fontColor": "#000000",
+                            "sliderColor": "#6E8592",
+                            "titleColor": "#000000",
+                            "toggleColor": "#6E8592"
+                        },
                         "GOOGLE_MAP_WIDGET_COMPONENT": {
                             "mapTheme": ""
                         },
@@ -535,8 +542,10 @@
         }
     },
     "description": "Demonstrates regression library",
-    "last_updated": "21 Feb 18 23:16 UTC",
-    "name": "regression",
+    "last_updated": "22 May 18 15:52 UTC",
+    "name": "RegressionToolkitDemo",
+    "permissions": 0,
+    "plugins": [],
     "system_key": "a2cdeda80bdad49dd78a8885e530",
     "type": "custom_v2"
 }
